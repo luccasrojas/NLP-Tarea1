@@ -1,2 +1,3 @@
 Que quiere decir implementar el AND_NOT?
 Todo tiene que ir en una misma función?
+Cuando la consulta no genera ningún resultado no se reporta??
